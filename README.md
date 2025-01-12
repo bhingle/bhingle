@@ -1,7 +1,23 @@
-# Hi there, I'm Abhishek Bhingle 👋
+<h1 align="center">Hi 👋, I'm Abhishek Bhingle</h1>
+<h3 align="center">A passionate Full Stack Developer from United States</h3>
 
-I am a passionate software engineer with a strong foundation in full-stack development, backed by my Master's in Computer Science from Indiana University, United States. My expertise lies in Java, Python, JavaScript, and various frameworks, including Spring Boot, React, and Angular. I have extensive experience in backend development, API design, cloud technologies, and scalable system architectures. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhingle&label=Profile%20views&color=0e75b6&style=flat" alt="bhingle" /> </p>
 
+- 🔭 I’m currently pursuing my Master's in Computer Science at Indiana University Bloomington
+
+- 👨‍💻 All of my projects are available at [https://github.com/bhingle?tab=repositories](https://github.com/bhingle?tab=repositories)
+
+- 📫 How to reach me **abhingl@iu.edu**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1he6bKVK58OmAAvNq3Szblx_zrQz3pERa/view](https://drive.google.com/file/d/1he6bKVK58OmAAvNq3Szblx_zrQz3pERa/view)
+
+- ⚡ Fun fact **I think I am funny, but Java exceptions disagree!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhingle" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhingle" height="30" width="40" /></a>
+</p>
 ---
 
 ### 🛠️ Technical Skills
