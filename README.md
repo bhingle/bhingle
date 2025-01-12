@@ -56,5 +56,5 @@ I am a passionate software engineer with a strong foundation in full-stack devel
 
 ---
 ### 📫 Let's Connect!
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhingle/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/abhingle/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 
