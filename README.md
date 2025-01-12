@@ -2,26 +2,21 @@
 <h3 align="center">A passionate Full Stack Developer from United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhingle&label=Profile%20views&color=0e75b6&style=flat" alt="bhingle" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
+## 😃 About Me:
 - 🔭 I’m currently pursuing my Master's in Computer Science at Indiana University Bloomington
-
-- 👨‍💻 All of my projects are available at [https://github.com/bhingle?tab=repositories](https://github.com/bhingle?tab=repositories)
-
-- 📫 How to reach me **abhingl@iu.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1he6bKVK58OmAAvNq3Szblx_zrQz3pERa/view](https://drive.google.com/file/d/1he6bKVK58OmAAvNq3Szblx_zrQz3pERa/view)
-
+- 🌱 I’m currently working on sharpening my problem-solving skills by tackling challenging problems on LeetCode and enhancing my understanding of DSA.
+- 👯 I’m looking to collaborate on Projects in Backend and Frontend Development
 - ⚡ Fun fact **I think I am funny, but Java exceptions disagree!**
-
-<h3 align="left">Connect with me:</h3>
+  
+## 🤗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/abhingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhingle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhingle" height="30" width="40" /></a>
 </p>
----
 
-### 🛠️ Technical Skills
-
+## 🛠️ Technical Skills:
 **Programming Languages**  
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -69,8 +64,3 @@
 **Data Visualization**
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="42" height="42" /></a>
-
----
-### 📫 Let's Connect!
-<p><a target="_blank" href="https://www.linkedin.com/in/abhingle/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
-
