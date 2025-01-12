@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Bhingle 👋
 
-I am a passionate software engineer with a strong foundation in full-stack development, backed by my Master's in Computer Science from Indiana University, Bloomington. My expertise lies in Java, Python, JavaScript, and various frameworks, including Spring Boot, React, and Angular. I have extensive experience in backend development, API design, cloud technologies, and scalable system architectures. 
+I am a passionate software engineer with a strong foundation in full-stack development, backed by my Master's in Computer Science from Indiana University, United States. My expertise lies in Java, Python, JavaScript, and various frameworks, including Spring Boot, React, and Angular. I have extensive experience in backend development, API design, cloud technologies, and scalable system architectures. 
 
 ---
 
