@@ -6,7 +6,7 @@
 
 ## 😃 About Me:
 - 🔭 I’m currently pursuing my Master's in Computer Science at Indiana University Bloomington
-- 🌱 I’m currently working on sharpening my problem-solving skills by tackling challenging problems on LeetCode.
+- 🌱 I’m currently working on sharpening my problem-solving skills by tackling challenging problems on LeetCode
 - 👯 I’m looking to collaborate on Projects in Backend and Frontend Development
 - ⚡ Fun fact **I think I am funny, but Java exceptions disagree!**
   
